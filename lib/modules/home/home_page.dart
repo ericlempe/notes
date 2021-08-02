@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:notes/widgets/button_widget.dart';
-import './widgets/card_widget.dart';
+import '../../widgets/card_widget.dart';
 
 class HomePage extends StatefulWidget {
   @override
